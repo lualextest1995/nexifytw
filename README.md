@@ -1,35 +1,43 @@
-# nexify
+# Project: Nexify
 
-This template should help get you started developing with Vue 3 in Vite.
+這是一個作業
 
-## Recommended IDE Setup
+## Demo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[github page](https://lualextest1995.github.io/nexifytw/)
 
-## Customize configuration
+## Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue3 Composition API
+- axios
 
-## Project Setup
+# Getting Started
 
-```sh
-npm install
+## development
+
+1. Clone this repositories.
+
+```
+$ git clone https://github.com/lualextest1995/nexifytw.git
 ```
 
-### Compile and Hot-Reload for Development
+2. Install NPM.
 
-```sh
-npm run dev
+```
+$ cd nexifytw
+$ npm install
 ```
 
-### Compile and Minify for Production
+3. Run the client and server.
 
-```sh
-npm run build
+```
+$ npm run dev
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+4. Open Web Browser.
 
-```sh
-npm run lint
 ```
+http://localhost:5173/
+```
+
+## Copyright © 2024 Alex Lu. All rights reserved.
